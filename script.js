@@ -20,9 +20,7 @@ const titles = [
  * closed book icon gotten from https://www.flaticon.com/free-icon/book_763331?term=book&page=1&position=49&origin=search&related_id=763331
  */
 const titleIcon = [
-    "../Day27_Mini_Project_Portfolio/img/open-book.png", "../Day27_Mini_Project_Portfolio/img/fire.png",
-    "../Day27_Mini_Project_Portfolio/img/laptop.png", "../Day27_Mini_Project_Portfolio/img/closedbook.png",
-    "../Day27_Mini_Project_Portfolio/img/leaf.png", "../Day27_Mini_Project_Portfolio/img/fire.png"
+    "./img/open-book.png", "./img/fire.png","./img/laptop.png", "./img/closedbook.png","./img/leaf.png", "./img/fire.png"
 ];
 const titleIconAlt = ["Book emoji", "Fire emoji", "Laptop emoji", "Closed Book emoji", "Leaf emoji", "Fire emoji"];
 setInterval(displayAnimation, 1000);
